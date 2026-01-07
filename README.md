@@ -3,6 +3,8 @@
 
 ### CICD
 ![jenkins](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![sonarqube](https://img.shields.io/badge/sonarqube-126ED3?style=for-the-badge&logo=sonarqube&logoColor=white)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KinDDoGGang&layout=compact&theme=tokyonight)
 
