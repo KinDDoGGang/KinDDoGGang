@@ -13,9 +13,10 @@
 ![springboot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 
-## Clouds
-![kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
+## ETC
+![kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![datadog](https://img.shields.io/badge/datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KinDDoGGang&layout=compact&theme=tokyonight)
 
